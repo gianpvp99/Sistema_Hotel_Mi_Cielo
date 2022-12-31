@@ -1,0 +1,32 @@
+Sistema de Hotel en PHP MYSQL JQuery Bootstrap.
+
+
+Código fuente completo del Sistema de Hotel, desarrollo en PHP8 utilizando la librería JQuery como gestor de base de datos se utiliza MYSQL. 
+Se puede personalizar según los requerimientos de la empresa. 
+Incluye :
+✅Login con roles: Administrador
+✅Gestión : 
+		✅Recepción
+		✅Salida
+✅Tienda	  :
+		✅Productos
+		✅Venta
+		✅Categorias	
+✅Mantenimiento : 
+		✅Habitaciones
+		✅Categoria 
+
+		✅Pisos
+✅Reportes   :
+		✅Recepción
+		✅Productos
+
+✅Usuarios   :
+		✅Usuarios
+		✅Clientes
+
+
+NOMBRE DE LA BASE DE DATOS :sistemahotel
+USUARIO: gianpvp99@gmail.com
+CONTRASEÑA:gianpiervp
+Contáctame : gianpvp99@gmail.com
