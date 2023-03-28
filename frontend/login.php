@@ -27,6 +27,7 @@ include_once '../backend/php/login.php'
                             <div class="title">
                                 Hotel "MI CIELO"
                             </div>
+                            <p>Correo:gianpvp99@gmail.com y contraseña:gianpiervp</p><br>
                             <?php
                             if (isset($errMsg)) {
                                 echo '
